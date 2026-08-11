@@ -1,0 +1,501 @@
+Date (date),Country Name (country_name),ISO Alpha 3 Code (alpha_3_code),Country Code (country_code),Region Name (region_name),Region Code (region_code),Sub-Region Name (subregion_name),Sub Region Code (subregion_code),Harmonized System Code (hs_code),Commodity Name (commodity),Quantity unit (unit),Commodity quantity (value_qt),Quantity value (INR) (value_rs),Quantity value (USD) (value_dl)
+"2025-07-01","Nepal","NPL","524","Asia","142","Southern Asia","34","52052310","Grey","Kgs",87471,2.11,0.25
+"2018-02-01","Turkiye","TUR","792","Asia","142","Western Asia","145","73062919","Other","Kgs",0.02,0.02,""
+"2018-09-01","China","CHN","156","Asia","142","Eastern Asia","30","57011000","*Carpets And Other Textile Floor Coverings Of Wool Or Fine Animal Hair, Knotted","Sqm",1.34,104.22,0.14
+"2025-05-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","32041132","Disperse Red 4(Celliton Fast Pink Rf)","Kgs",460,0.09,0.01
+"2015-04-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","62179010","Cotton Cuffs And The Like Of Cotton","Kgs",0.01,0.46,0
+"2024-04-01","Bahrain","BHR","48","Asia","142","Western Asia","145","12060090","Other Sunflower Seeds W/N Broken","Kgs",3990,0.02,0
+"2015-12-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","84824000","Needle Roller Bearings","Nos",0.02,0.17,0
+"2019-09-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","54078230","Polyester Shirtings","Sqm",34.38,19.66,0.03
+"2017-05-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","84543090","Other Casting Machines","Nos",0,7.4,0.01
+"2018-08-01","Nepal","NPL","524","Asia","142","Southern Asia","34","85332119","Elctrcl Resistance Wire Bare Other Than Nichrome","Nos",10.34,5.16,0.01
+"2016-07-01","Bahrain","BHR","48","Asia","142","Western Asia","145","62113200","Othr Grmnts Of Ctn For Mens Or Boys","Nos",8.72,96.06,0.14
+"2024-10-01","Myanmar","MMR","104","Asia","142","South-eastern Asia","35","39131090","Other Alginic Acid Its Salts And Esters","Kgs",150,0,0
+"2018-08-01","Nepal","NPL","524","Asia","142","Southern Asia","34","23021090","Othr By-Prdcts From The Working Of Maize Bran","Kgs",328,35.92,0.05
+"2015-04-01","Myanmar","MMR","104","Asia","142","South-eastern Asia","35","85364900","Other Relays","Nos",0.02,2.21,0
+"2016-08-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","29151290","Other Salts Of Formic Acid","Kgs",3.1,9.08,0.01
+"2018-07-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","63041910","Bedsheets And Bed Covers Of Cotton","Nos",79.55,260.37,0.38
+"2016-07-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","90330000","Prts And Accessories Fr Machines,Appliances,Instruments/Apparatus Of Chapter 90,Nes","Kgs",3.29,46.79,0.07
+"2024-08-01","Iraq","IRQ","368","Asia","142","Western Asia","145","87149510","Bicycle Saddles","Kgs",6387,0.1,0.01
+"2024-08-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","73079290","Non-Galvanised","Kgs",60,0,0
+"2018-12-01","Oman","OMN","512","Asia","142","Western Asia","145","53050040","C0Ir Pith","Kgs",10.4,1.41,0
+"2021-09-01","Taiwan, Province of China","TWN","158","Asia","142","Eastern Asia","30","82042000","Intrchangble Spaner Sokets,Wth Handl Or Nt","Kgs","",0.2,0
+"2025-09-01","Maldives","MDV","462","Asia","142","Southern Asia","34","85235910","Proximity Cards And Tags","Nos",1000,0,0
+"2018-12-01","Maldives","MDV","462","Asia","142","Southern Asia","34","84129090","Parts Of Other Engines And Motors","Kgs",1.6,10.91,0.02
+"2024-11-01","Japan","JPN","392","Asia","142","Eastern Asia","30","39074000","Polycarbonates","Kgs",200,0,0
+"2018-08-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","40059190","Other Plates Sheets And Strip","Kgs",0.09,0.06,""
+"2025-10-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","29199090","Other Phasphrc Esters And Their Salts","Kgs",1200,0.11,0.01
+"2015-10-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","13019043","Oleoresins Of Leaves","Kgs",0,0.01,""
+"2025-09-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","52083220","Saree","Sqm",1726,0.02,0
+"2021-10-01","Islamic Republic of Iran","IRN","364","Asia","142","Southern Asia","34","84149090","Others","Kgs",0.1,0.66,0
+"2017-08-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","32041216","Acid Greens(Azo)","Kgs",0.2,0.76,0
+"2015-05-01","Nepal","NPL","524","Asia","142","Southern Asia","34","87042190","*Other Goods Vhcls,Wth Cmprsn Igntn Intrnl Cmbstn Pstn Engnwth G.V.W. <= 5 Ton","Nos",0.34,1404.3,2.2
+"2020-03-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","63013000","Blankets(Other Than Electric Blankets) And Travelling Rugs,Of Cotton","Nos",1.16,7.78,0.01
+"2019-06-01","Japan","JPN","392","Asia","142","Eastern Asia","30","55092100","Single Yrn Cntng 85% Or More By Wt Of Polyster Staple Fibres","Kgs",38.55,66.96,0.1
+"2015-03-01","Qatar","QAT","634","Asia","142","Western Asia","145","39239090","Othr Artcls For Cnvynce/Pckng Of Goods Nes","Kgs",20,36.04,0.06
+"2020-08-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","29157040","Hco Fatty Acid(Incl 12-Hydroxy Stearc Acd)","Kgs",830,884.08,1.18
+"2025-09-01","Brunei Darussalam","BRN","96","Asia","142","South-eastern Asia","35","57031010","Carpets","Sqm",29,0,0
+"2016-12-01","Pakistan","PAK","586","Asia","142","Southern Asia","34","84454030","Regenerated Fibrs And Synthtc Fibrs Reelng (Including Wft-Wndng)Mchns","Nos",0,2.71,0
+"2025-02-01","Islamic Republic of Iran","IRN","364","Asia","142","Southern Asia","34","12024210","Kernels, H.P.S","Kgs",897300,7.08,0.81
+"2018-11-01","Japan","JPN","392","Asia","142","Eastern Asia","30","94051090","*Other Lighting Fittings Fr Lghtng Publc Sp","Nos",0,0.01,""
+"2024-11-01","Taiwan, Province of China","TWN","158","Asia","142","Eastern Asia","30","48192020","Boxes Of Non-Crrugated Paper And Paperboard","Kgs",226,0,0
+"2019-02-01","Taiwan, Province of China","TWN","158","Asia","142","Eastern Asia","30","90291090","Other","Nos",0.5,0.69,0
+"2018-07-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","73239490","Other Household Articles Of Iron N.E.S. (Other Than Cast Iron)Or Steel,Enamelled","Kgs",87.49,180.68,0.26
+"2020-01-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","22029920","Fruit Pulp Or Fruit Juice Based Drink","Ltr",65.92,47.99,0.07
+"2024-12-01","Philippines","PHL","608","Asia","142","South-eastern Asia","35","73259999","Other Cast Articles Of Iron Or Steel N.E.S","Kgs",625,0.02,0
+"2020-09-01","Turkiye","TUR","792","Asia","142","Western Asia","145","85414019","*Other Photocells","Nos",1.45,76.75,0.1
+"2018-11-01","Israel","ISR","376","Asia","142","Western Asia","145","58101000","Embroidery Without Visible Ground","Kgs",0.26,17.89,0.02
+"2016-12-01","Republic of Korea","KOR","410","Asia","142","Eastern Asia","30","84553000","Rolls For Rolling Mills","Nos",0.01,12.05,0.02
+"2019-05-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","85353090","Isltng And Make-And-Brk Swtchs Of Othr Matrls","Kgs",0.38,163.48,0.23
+"2017-06-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","29319090","Other","Kgs",94.24,153.91,0.24
+"2020-01-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","79050020","Plates Of Zinc","Kgs",0.63,0.88,0
+"2025-04-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","32062000","Pigmnts And Prptns Basd On Chrom Compnd","Kgs",21000,0.6,0.07
+"2020-09-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","70072190","Other","Kgs",35.87,101.75,0.14
+"2017-06-01","Cambodia","KHM","116","Asia","142","South-eastern Asia","35","40101290","(Cnvyr Blt/Bltng)Renfrcd Wth Txtl Mtrls Where Rubr Compd Content More Than 25% By Weight","Kgs",0.01,0.02,""
+"2017-03-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","73261910","Other Articles Forged Or Stamped For Automobiles And Earth Moving Equipments","Kgs",0.1,0.16,0
+"2016-05-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","30049049","Other Anticancer Drugs","Kgs",0.97,343.72,0.51
+"2021-12-01","Yemen","YEM","887","Asia","142","Western Asia","145","73211190","Other Cooking Apparatus Of Iron Or Steel","Nos",0.11,1.1,0
+"2025-06-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","32151910","Other Lithographic Ink And Jelly","Kgs",29109,0.75,0.09
+"2024-08-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","38190010","Brake Fluids (Hydraulic Fluids)","Kgs",9992,0.15,0.02
+"2025-09-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","84314920","Prts Of Ships Derricks And Cranes","Kgs",1721,0.21,0.02
+"2021-11-01","Israel","ISR","376","Asia","142","Western Asia","145","30021230","For Rabies","Kgs",0,0.33,0
+"2016-02-01","Nepal","NPL","524","Asia","142","Southern Asia","34","83081010","Hooks And Eyes","Kgs",0.32,0.52,0
+"2018-12-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","68053000","Natural Or Artificals Abrasive Powder Or Grain On A Base Of Other Materials","Kgs",1.84,11.2,0.02
+"2024-05-01","Qatar","QAT","634","Asia","142","Western Asia","145","73042910","Casing, Tubing Of Iron","Kgs",3374,0.25,0.03
+"2019-10-01","Japan","JPN","392","Asia","142","Eastern Asia","30","30051010","Adhesive Gauze Bandage","Kgs",0.01,0.24,0
+"2024-04-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","54041990","Other","Kgs",2073,0.15,0.02
+"2020-10-01","Maldives","MDV","462","Asia","142","Southern Asia","34","90183990","Others","Nos",17.03,37.55,0.05
+"2020-12-01","Qatar","QAT","634","Asia","142","Western Asia","145","29270090","Other Diazo-Azo-Or Azoxy-Compounds","Kgs","",0.06,""
+"2020-01-01","Nepal","NPL","524","Asia","142","Southern Asia","34","84212900","Othr Fltrng/Purfyng Mchnry And Apprts Fr Lqd","Nos",22.4,140.93,0.2
+"2020-12-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","58071020","Label Badges Etc Of Man-Made Fibre Woven","Kgs",0.19,5.38,0.01
+"2016-02-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","73141910","Wire Gauze(Wire Cloth Wire Mesh)","Kgs",0.01,0.13,0
+"2019-02-01","Nepal","NPL","524","Asia","142","Southern Asia","34","95062900","Othr Watr-Sport Equpmnts(Surf-Boards Water-Skis Etc)","Nos",0.61,1.85,0
+"2025-01-01","Nepal","NPL","524","Asia","142","Southern Asia","34","38091000","Prpns Wth A Basis Of Amylaceous Sbstncs","Kgs",11669,0.21,0.02
+"2025-02-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","30049089","Tranquilizers","Kgs",585,0.21,0.02
+"2020-03-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","25070010","Kaolin (China Clay) Crude","Kgs",96.1,26.43,0.04
+"2015-05-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","85211019","Othr Cassette Tape-Type Video Tape Recordr","Nos",0,0.28,0
+"2025-04-01","China","CHN","156","Asia","142","Eastern Asia","30","90179000","Parts And Accessories Of Artcls Of Hdg 9017","Kgs",102,0.05,0.01
+"2017-12-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","84714190","Othr Dgtl Automatc Data-Procesng Machine Comprisng A Central Procesng Unit And An Input And Output Unit Wh/Not Combi","Nos",0,6.04,0.01
+"2016-11-01","China","CHN","156","Asia","142","Eastern Asia","30","52121100","Othr Unblched Woven Fabrics Of Cotton Weighing Not More Than 200 G/M2","Sqm",286,18.96,0.03
+"2021-11-01","China","CHN","156","Asia","142","Eastern Asia","30","58062000","Othr Narrow Wvn Fbrcs Cntng By Wt 5% Or More Of Elastomrc Yrn/Rubr Thrd","Kgs",0.09,1.55,0
+"2018-06-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","28273100","Chlorides Of Magnesium","Kgs",38,3.18,0
+"2016-10-01","Pakistan","PAK","586","Asia","142","Southern Asia","34","29411030","Amoxycilline And Its Salts","Kgs",0.3,12.1,0.02
+"2015-03-01","Nepal","NPL","524","Asia","142","Southern Asia","34","29012910","Acetylene W/N In Dissolved Condition","Kgs",0.01,0.09,0
+"2025-09-01","Maldives","MDV","462","Asia","142","Southern Asia","34","90181990","Othr Elctro-Diagnostc Apprts","Nos",239,0.03,0
+"2015-08-01","Japan","JPN","392","Asia","142","Eastern Asia","30","72210090","Brght Bars N.E.S.","Kgs",1,1.42,0
+"2017-02-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","64035119","Othr Ankle Cvrd All Lthr Shoes","Prs",0.26,1.5,0
+"2018-02-01","Philippines","PHL","608","Asia","142","South-eastern Asia","35","84178090","Othr Furnaces And Ovens","Nos",0,0.27,0
+"2021-02-01","Nepal","NPL","524","Asia","142","Southern Asia","34","84678920","Vibrators,Non-Electric","Nos",0.01,1.41,0
+"2024-08-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","3034300","Skipjack Tuna( Stripe-Bellied Bonito), (Katsuwonuspelamis)","Kgs",84000,0.97,0.12
+"2018-01-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","69091100","Cermc Wares Fr Labrtry Etc Of Porcelain","Kgs",0.35,0.82,0
+"2020-12-01","Turkiye","TUR","792","Asia","142","Western Asia","145","25252050","Mica Powdr Calcined","Kgs",0.03,0.02,""
+"2015-10-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","38249017","*Surface Tension Recucing Agents","Kgs",1.92,1.66,0
+"2024-04-01","Maldives","MDV","462","Asia","142","Southern Asia","34","30049031","Promethazine, Chlorpheniramine, Astemizole And Ceteirizine","Kgs",71,0.06,0.01
+"2015-09-01","China","CHN","156","Asia","142","Eastern Asia","30","73209090","Others Of Other Springs Of Iron/Steel","Kgs",0.31,2.05,0
+"2025-02-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","39119090","Other Products In Rimary Forms Nes","Kgs",23500,0.52,0.06
+"2024-06-01","Kyrgyzstan","KGZ","417","Asia","142","Central Asia","143","73239990","Other Household Utensils And Its Parts N.E.S","Nos",4367,0.17,0.02
+"2020-09-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","27101949","High Flash High Speed Diesel Fuel Conforming To Standard Is 16861","Kgs",49,16.34,0.02
+"2016-04-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","8011920","Coconut ,Dried Excl. Desiccated And Endocarp","Kgs",18.59,27.67,0.04
+"2021-08-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","10085000","Quinoa(Chenopodium Quinoa)","Kgs",0.18,0.46,0
+"2025-03-01","Nepal","NPL","524","Asia","142","Southern Asia","34","85258900","Television Cameras, Digital Cameras And Vidcamera Recorders Others","Nos",3641,0.74,0.09
+"2024-10-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","60062400","Othr Knited Or Crochetd Fbrcs Of Cotton , Printd","Kgs",49874,3.1,0.37
+"2016-07-01","Republic of Korea","KOR","410","Asia","142","Eastern Asia","30","29362920","Nctnc Acid And Nctnmd(Niacinamide/Niacine","Kgs",69,299.06,0.44
+"2019-04-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","29094400","Other Monoalkyl Ethrs Of Ethylene Glycol Or Of Diethylene Glycol","Kgs",15.7,14.63,0.02
+"2017-09-01","Bahrain","BHR","48","Asia","142","Western Asia","145","2042100","Crcs And Hlf Crcs Of Sheep,Frsh Or Chld","Kgs",14.68,59.92,0.09
+"2016-07-01","Islamic Republic of Iran","IRN","364","Asia","142","Southern Asia","34","87149100","Frames,Forks And Prts Thereof","Nos",0.3,0.62,0
+"2019-03-01","Lebanon","LBN","422","Asia","142","Western Asia","145","90173010","Calipers And Micrometers","Nos",0,0.14,0
+"2021-07-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","99930090","Special Transactions N.E.S.","","",0.02,""
+"2017-05-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","42032110","Gloves For Sports","Kgs",0.15,4.72,0.01
+"2024-09-01","Republic of Korea","KOR","410","Asia","142","Eastern Asia","30","39262029","Other Apron","Kgs",1,0,0
+"2025-03-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","90189032","Blood Transfusion Apparatus Incl Plastic Container / Bags","Nos",7920,0.12,0.01
+"2024-09-01","Oman","OMN","512","Asia","142","Western Asia","145","61046200","Trsrs,Bibs,Brc Ovrlls,Brchs,Shrts Of Cotn","Nos",2212,0.18,0.02
+"2018-01-01","Afghanistan","AFG","4","Asia","142","Southern Asia","34","85123010","Horns","Nos",0.6,1.47,0
+"2025-01-01","China","CHN","156","Asia","142","Eastern Asia","30","64039990","Lthr Sandals With Othr Sole","Prs",2091,0.25,0.03
+"2017-07-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","25262000","Natrl Steatite Crushed/Powdered","Kgs",674,148.91,0.23
+"2025-04-01","Kyrgyzstan","KGZ","417","Asia","142","Central Asia","143","83061000","Bells Gongs And The Like","Kgs",21,0,0
+"2025-06-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","39264039","Other Statuettes","Kgs",139,0.05,0.01
+"2017-06-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","48051900","Other Fluting Paper","Kgs",0.85,3.09,0
+"2017-06-01","Israel","ISR","376","Asia","142","Western Asia","145","44140000","*Wooden Frames For Paintings Photographs Mirrors Or Similar Objects","Kgs",0.12,0.32,0
+"2024-06-01","Nepal","NPL","524","Asia","142","Southern Asia","34","39206999","Other Pltes Shts Etc Of Othr Polyester Nes","Kgs",3150,0.07,0.01
+"2018-11-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","85444220","Plstic Insltd Cndctrs Fr <= 1000V Fitted With Connectors","Mtr",0.3,0.9,0
+"2017-01-01","Taiwan, Province of China","TWN","158","Asia","142","Eastern Asia","30","3055990","Other Dried N.E.S.Nt Smkd","Kgs",18.1,35.56,0.05
+"2015-07-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","84482000","Prts And Accssrs Of Mchns Of Hdg No.8444/Of Their Auxlry Mchnry","Kgs",9.29,63.53,0.1
+"2024-04-01","Qatar","QAT","634","Asia","142","Western Asia","145","7144000","Taro (Colocasia Spp.)","Kgs",1411,0.01,0
+"2018-12-01","Nepal","NPL","524","Asia","142","Southern Asia","34","30049071","Captopril, Enalapril, Lisinopril, Perindopril And Ramipril","Kgs",0.32,18.79,0.03
+"2024-04-01","Iraq","IRQ","368","Asia","142","Western Asia","145","9011119","Coffee Arabica Plantation Other Grade","Kgs",28020,1.3,0.16
+"2020-11-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","52095140","Furnishing Fabrics ( Excl Pile And Chenille Fabrics )","Sqm",4.99,0.79,0
+"2021-03-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","33052000","Prpns For Permnt Waving Or Straightening","Kgs",0.37,1.95,0
+"2019-02-01","Philippines","PHL","608","Asia","142","South-eastern Asia","35","84289020","Ash Handling Plants","Nos",0,29.76,0.04
+"2025-10-01","Qatar","QAT","634","Asia","142","Western Asia","145","48092000","Self Copy Paper","Kgs",7236,0.09,0.01
+"2024-09-01","Lebanon","LBN","422","Asia","142","Western Asia","145","40169330","Rubber Seals(Oil Seals,Etc)","Kgs",6,0,0
+"2025-04-01","Japan","JPN","392","Asia","142","Eastern Asia","30","82151000","Sets Of Asortd Articls Contng One Article Plated Wth Precious Metal","Kgs",25,0,0
+"2020-09-01","Qatar","QAT","634","Asia","142","Western Asia","145","2042200","Othr Cuts With Bon In Of Sheep, Frsh/Chld","Kgs",0.11,0.53,0
+"2025-07-01","Qatar","QAT","634","Asia","142","Western Asia","145","84051090","Other Gas Generators","Nos",7,0.01,0
+"2015-05-01","China","CHN","156","Asia","142","Eastern Asia","30","92089000","Articles Of Hdg 9208 Excl. Musical Boxes","Nos",0,0.65,0
+"2017-10-01","Turkiye","TUR","792","Asia","142","Western Asia","145","40129049","Tyre Flaps Used In Other Vehicles","Kgs",1.64,2.95,0
+"2016-12-01","Kuwait","KWT","414","Asia","142","Western Asia","145","73182990","Other Non-Threaded Articles N.E.S.","Kgs",6.21,15.06,0.02
+"2017-03-01","Israel","ISR","376","Asia","142","Western Asia","145","39061090","Other Poly Metyl Methacrylates","Kgs",1.92,9.48,0.01
+"2016-03-01","Lebanon","LBN","422","Asia","142","Western Asia","145","32042010","0Ptical Whitening Agents","Kgs",10,5.5,0.01
+"2024-07-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","84388090","Others","Nos",13,1.6,0.19
+"2020-09-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","32081090","Others Based On Polyesters","Kgs",19.07,85.48,0.12
+"2019-09-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","30039021","Menthol Crystal","Kgs",0.2,3.91,0.01
+"2016-03-01","Brunei Darussalam","BRN","96","Asia","142","South-eastern Asia","35","62034200","*Trousers Bib And Brace Overalls Breeches And Shorts Of Cotton For Mens And Boys","Nos",6.8,24.54,0.04
+"2019-05-01","Lao People's Democratic Republic","LAO","418","Asia","142","South-eastern Asia","35","85030010","Parts Of Generators(Ac/Dc)","Kgs",0,164.64,0.24
+"2017-07-01","Qatar","QAT","634","Asia","142","Western Asia","145","74091900","Other Plates,Sheets Etc Of Refined Copper","Kgs",20.76,69.92,0.11
+"2016-05-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","21039030","Majonnaise And Salad Dressings","Kgs",9.4,12.2,0.02
+"2015-09-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","9092200","Crushed Or Ground Coriander","Kgs",0.25,0.42,0
+"2021-04-01","Iraq","IRQ","368","Asia","142","Western Asia","145","32041719","Others Pigment Yellow (Organic)","Kgs",10,20.17,0.03
+"2017-05-01","Nepal","NPL","524","Asia","142","Southern Asia","34","30045036","Vitamin D In Tablets, Capsules, Syrup Et","Kgs",0.01,1.06,0
+"2020-12-01","Georgia","GEO","268","Asia","142","Western Asia","145","9021010","Tea Green In Packets Nt Excdng 25 Grams","Kgs",0.36,0.78,0
+"2018-10-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","39261019","Office Supplies Excl Pins Clips Writing Instruments Of Other Make","Kgs",1.61,3.64,0
+"2018-07-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","52084230","Shirting Fabrics","Sqm",14.16,23.51,0.03
+"2017-01-01","China","CHN","156","Asia","142","Eastern Asia","30","54024500","Othr Yarn Of Nylon/Othr Polymds,Untwstd Orwth A Twist <=50 Turns Per Mtr Single","Kgs",13.48,22.35,0.03
+"2020-11-01","Qatar","QAT","634","Asia","142","Western Asia","145","90049090","0Thers","Kgs",0.49,18.03,0.02
+"2018-06-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","31043000","Potassium Sulphate","Kgs",0.01,0.02,""
+"2016-10-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","15131100","Coconut (Copra) Crude Oil And Fractions","Kgs",2328.92,2216.69,3.32
+"2024-06-01","Turkiye","TUR","792","Asia","142","Western Asia","145","40094200","Tubes,Pipes,Andhoses Of Vulcnsd Rubr Reinforced Otherwse Combined With Other Matarials With Fittings","Kgs",2393,0.1,0.01
+"2020-07-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","61061000","Blouse Etc Of Cotton","Nos",39.36,106.87,0.14
+"2021-03-01","Nepal","NPL","524","Asia","142","Southern Asia","34","7049000","Kohrbi,Kaleandsmlr Edbl Brassicas,Frsh/Chld","Kgs",26.46,2.87,0
+"2017-03-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","83079000","Flxbl Tubng Of Othr Bs Mtl Wth/Wthut Ftng","Kgs",0,0.08,0
+"2021-02-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","28272000","Calcium Chloride","Kgs",0.8,0.44,0
+"2025-09-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","84811000","Pressure-Reducing Valves","Kgs",35853,9.88,1.12
+"2021-08-01","Afghanistan","AFG","4","Asia","142","Southern Asia","34","84834000","Gears And Gearng,Excl Toothd Wheels,Trnsmsn Elmnts Prsntd Seprtly;Ball Scrws;Gear Boxsand Speed Chngrs,Incl Torque C","Nos",0.05,1.46,0
+"2018-11-01","Qatar","QAT","634","Asia","142","Western Asia","145","85043100","Othr Trnsfrmrs Hvng A Pwr Hndlng Capacity Not Excdng 1 Kva","Nos",3.49,16.04,0.02
+"2019-07-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","14011000","Bamboos","Kgs",266,9.24,0.01
+"2020-12-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","49030020","Childrens Drawing Or Colorng Books","Kgs",0,0.01,""
+"2017-11-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","19021900","Othr Uncookd Notstfd/Othrwse Prpd Psta","Kgs",2.38,4.07,0.01
+"2024-09-01","Turkiye","TUR","792","Asia","142","Western Asia","145","84829113","Special Stainless Steel Balls","Kgs",8705,0.36,0.04
+"2017-10-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","85432090","Others (E.G. Pattern Generator)","Nos",0.04,9.31,0.01
+"2019-12-01","Nepal","NPL","524","Asia","142","Southern Asia","34","13012000","Gum Arabic","Kgs",14.04,11.5,0.02
+"2019-12-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","90189029","Othr Surgical Tools","Nos",0.99,24.61,0.03
+"2025-07-01","Oman","OMN","512","Asia","142","Western Asia","145","32141000","Glaziers Putty, Grftng Putty Resin Cemnts,Caulkng Cmpds And Othr Mastics;Painters Fillings.","Kgs",2,0.01,0
+"2016-12-01","Nepal","NPL","524","Asia","142","Southern Asia","34","40029920","Tread Rubr Com,Cushion Com,Cushion Gum/ Tread Gum For Resol/Repai/Retrea Rubr Tyre","Kgs",9.05,14.65,0.02
+"2024-10-01","Myanmar","MMR","104","Asia","142","South-eastern Asia","35","87089100","Radiators","Kgs",388,0.04,0
+"2015-03-01","Maldives","MDV","462","Asia","142","Southern Asia","34","33049930","Moisturising Lotion","Kgs",3.02,16.47,0.03
+"2024-09-01","Japan","JPN","392","Asia","142","Eastern Asia","30","42022910","Hnbgs Of Othr Mtrls Excl Wkrwrk/Bskt Wrk","Nos",389,0.05,0.01
+"2019-07-01","Nepal","NPL","524","Asia","142","Southern Asia","34","28011000","Chlorine","Kgs",43,4,0.01
+"2024-07-01","Nepal","NPL","524","Asia","142","Southern Asia","34","83024900","Other Mounting Fittings Etc Nes","Kgs",5239,0.85,0.1
+"2018-02-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","52122300","Othr Dyed Wovn Fbrcs Wghng >200 G/M2","Sqm",10.92,25.94,0.04
+"2018-08-01","Islamic Republic of Iran","IRN","364","Asia","142","Southern Asia","34","33059011","Perfumed Hair Oil","Kgs",2.39,4.02,0.01
+"2016-03-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","29209020","*Dimethyl Sulphate","Kgs",100,33.9,0.05
+"2015-01-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","39079990","*Other Polyesters (Saturated) Nes","Kgs",4.87,6.98,0.01
+"2017-03-01","Uzbekistan","UZB","860","Asia","142","Central Asia","143","84145990","Others","Nos",0,0.07,""
+"2020-03-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","39094030","Alkyl Phenol-Formaldehyde Resins","Kgs",27.5,56.02,0.08
+"2021-04-01","Maldives","MDV","462","Asia","142","Southern Asia","34","40119000","Other","Nos",0.02,0.06,""
+"2016-12-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","84242000","Spray Guns And Similar Appliances","Nos",0.53,1.42,0
+"2020-01-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","85318000","Other Electric Sound/Visual Signlng Apprts","Nos",103.33,4.52,0.01
+"2020-08-01","Maldives","MDV","462","Asia","142","Southern Asia","34","21041090","Other Than Dried Soup And Broths And Preparatons","Kgs",0.03,0.48,0
+"2020-08-01","Jordan","JOR","400","Asia","142","Western Asia","145","28276020","Sodium Iodide","Kgs",0,0.05,""
+"2020-01-01","Maldives","MDV","462","Asia","142","Southern Asia","34","39079120","Polyester Or Contract Resins Unsaturated","Kgs",39.8,48.06,0.07
+"2021-12-01","Oman","OMN","512","Asia","142","Western Asia","145","28321090","Other Sodium Sulphite","Kgs",25,10.86,0.01
+"2021-02-01","Yemen","YEM","887","Asia","142","Western Asia","145","30043190","Other Medicaments Containing Insulin","Kgs",0.13,7.65,0.01
+"2021-12-01","Israel","ISR","376","Asia","142","Western Asia","145","38123990","Other","Kgs",52,30.02,0.04
+"2021-01-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","85363000","Othr Apprts Fr Prtctng Elctrcl Circuits","Nos",1.88,10.4,0.01
+"2024-08-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","84223000","Mchnry Fr Fillng,Closng,Sealng,Capsulng Or Labelling Bottles,Cans,Boxes,Bags/Othr Containers;Mchnry For Aerating Bever","Kgs",1383,0.47,0.06
+"2015-10-01","Democratic People's Republic of Korea","PRK","408","Asia","142","Eastern Asia","30","68042220","Grinding Wheels Paper Etc","Kgs",0.03,0.4,0
+"2019-02-01","Japan","JPN","392","Asia","142","Eastern Asia","30","40139041","Inner Tubes Used In Rear Tyres Of Tractors","Nos",0.15,1.84,0
+"2017-03-01","Nepal","NPL","524","Asia","142","Southern Asia","34","70181010","Bangles","Kgs",24.08,29.05,0.04
+"2017-02-01","Syrian Arab Republic","SYR","760","Asia","142","Western Asia","145","28331100","Disodium Sulphate","Kgs",540,28.35,0.04
+"2024-04-01","Myanmar","MMR","104","Asia","142","South-eastern Asia","35","30049084","Preparations Of Enzymes","Kgs",2262,1.96,0.24
+"2015-01-01","Turkiye","TUR","792","Asia","142","Western Asia","145","90268090","Othr Instrmnts And Aprts Fr Msrng,Chkng Or Autmtclly Cntrlng The Flow,Dpth,Prsr Etc","Nos",9.23,22.03,0.04
+"2018-09-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","90214090","Others","Nos",0.08,4,0.01
+"2020-08-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","84543090","Other Casting Machines","Nos",0.61,8.92,0.01
+"2016-12-01","Islamic Republic of Iran","IRN","364","Asia","142","Southern Asia","34","66019900","Other Umbrellas","Nos",0.02,0.01,""
+"2017-01-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","83030000","Armord/Reinfrcd Safes Strong Boxs And Doors And Safe Dpost Lckrs Fr Strng Rooms Csh/ Deedboxs Etc Of Base Metal","Kgs",13.44,24.55,0.04
+"2015-07-01","Maldives","MDV","462","Asia","142","Southern Asia","34","48239090","Others","Kgs",1.12,3.65,0.01
+"2019-09-01","Myanmar","MMR","104","Asia","142","South-eastern Asia","35","28100020","Boric Acid","Kgs",5,3.49,0
+"2018-05-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","7032000","Garlic Fresh Or Chilled","Kgs",4205,754.57,1.12
+"2016-12-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","13021990","Others, Derived From Vegetble Prodcts","Kgs",30,26.04,0.04
+"2025-07-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","39269099","Othr Article Of Plastic Nes","Kgs",12779,0.77,0.09
+"2019-12-01","Nepal","NPL","524","Asia","142","Southern Asia","34","85272900","Othr Redio-Broadcst Rcvrs Nt Cpbl To Oprt Wtht Extrnl Powr,Usd In Motr Vhcls,Incl Apprts Fr Rcvng Radio-Tlphny/Radio-T","Nos",0.33,0.34,0
+"2025-04-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","72223011","Bright Barschromium Type","Kgs",72735,0.91,0.11
+"2024-12-01","Japan","JPN","392","Asia","142","Eastern Asia","30","25081090","Othr Bentonite (Incl. Processed, Activatedand Ground","Kgs",140000,0.12,0.01
+"2019-07-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","85365010","Control And Switch Gear","Nos",0.01,0.01,""
+"2018-03-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","32041231","Acid Black 2(Nigrosine)","Kgs",3,4.66,0.01
+"2015-10-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","9021010","Tea Green In Packets Nt Excdng 25 Grams","Kgs",0.15,0.67,0
+"2017-10-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","84335900","Other Harvesting And Threshing Machinery","Nos",0,79.89,0.12
+"2018-03-01","Afghanistan","AFG","4","Asia","142","Southern Asia","34","40111010","Radials Tyres Used On Motor Cars (Incl Station Wagons And Racing Cars)","Nos",0.08,3.41,0.01
+"2018-04-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","83021020","Hinges 0F Brass","Kgs",1.04,6.98,0.01
+"2021-11-01","Turkiye","TUR","792","Asia","142","Western Asia","145","28332400","Nickel Sulphate","Kgs",0,0.03,""
+"2017-11-01","Nepal","NPL","524","Asia","142","Southern Asia","34","76109030","Aluminium Plates , Rods, Profiles, Tubes And The Like, For Use In","Kgs",5,19.01,0.03
+"2016-03-01","Yemen","YEM","887","Asia","142","Western Asia","145","62143000","Shwls,Scrvs,Mufflers Etc Of Synthtc Fbrs","Nos",35.86,22.16,0.03
+"2018-09-01","Japan","JPN","392","Asia","142","Eastern Asia","30","94036000","Other Wooden Furniture","Nos",1.13,32.88,0.05
+"2015-11-01","Turkiye","TUR","792","Asia","142","Western Asia","145","39209999","Others Plate/ Sheets Etc. Of Other Plastic N.E.S","Kgs",0.6,5.25,0.01
+"2025-10-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","3034300","Skipjack Tuna( Stripe-Bellied Bonito), (Katsuwonuspelamis)","Kgs",414000,4.65,0.53
+"2020-10-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","29051690","Other Saturated Octanol","Kgs",0,0.2,0
+"2018-02-01","Georgia","GEO","268","Asia","142","Western Asia","145","94038900","Others","Nos",0.02,0.7,0
+"2015-04-01","Israel","ISR","376","Asia","142","Western Asia","145","73182200","Other Washers,Non-Threaded","Kgs",0.3,0.37,0
+"2019-06-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","90183100","Syringes,W/N With Needles","Nos",0.05,3.77,0.01
+"2024-05-01","Nepal","NPL","524","Asia","142","Southern Asia","34","38231200","Oleic Acid","Kgs",270,0,0
+"2021-03-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","29336990","Other Cmpnd Cntng An Unfused Triazine Ring(W/N Hydrgntd) In Structure","Kgs",0.1,122.91,0.17
+"2021-09-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","73259910","Other Cast Artcles Of Iron Malleable","Kgs",5.6,5.06,0.01
+"2015-05-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","29209099","*Other Esters Of Other Inorganic Acids Of Non-Metls And Their Salts","Kgs",24.2,35.56,0.06
+"2020-11-01","Nepal","NPL","524","Asia","142","Southern Asia","34","90183910","Catheters (For Urine,Stool)","Nos",83.85,31.37,0.04
+"2024-04-01","Iraq","IRQ","368","Asia","142","Western Asia","145","12024210","Kernels, H.P.S","Kgs",579000,5.63,0.68
+"2016-06-01","Nepal","NPL","524","Asia","142","Southern Asia","34","68051010","Abrasive Cloths","Kgs",1.48,4.9,0.01
+"2018-05-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","71039990","Other Stone Cut(Topaz Aquamarine Etc)","Ctm",103.98,25.26,0.04
+"2016-11-01","Oman","OMN","512","Asia","142","Western Asia","145","73041990","Other","Kgs",2,8.29,0.01
+"2017-09-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","62053000","Mens Or Boys Shirts Of Man-Made Fibres","Nos",8.61,25.79,0.04
+"2020-12-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","30039011","Medicants Of Ayurvedic System","Kgs",0.29,1.78,0
+"2015-05-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","76072090","Other Backed Allumnm Foil","Kgs",1.52,5.15,0.01
+"2018-08-01","Pakistan","PAK","586","Asia","142","Southern Asia","34","20041000","Potatoes Prpd/Prsvd, Frzn","Kgs",182.37,135.71,0.2
+"2017-09-01","Qatar","QAT","634","Asia","142","Western Asia","145","49111010","Posters, Printed","Kgs",0.03,0.36,0
+"2015-01-01","Oman","OMN","512","Asia","142","Western Asia","145","87149510","Bicycle Saddles","Kgs",0.2,0.26,0
+"2025-06-01","Uzbekistan","UZB","860","Asia","142","Central Asia","143","40059190","Other Plates Sheets And Strip","Kgs",5,0.01,0
+"2018-10-01","Jordan","JOR","400","Asia","142","Western Asia","145","54079200","Other Synthtic Woven Fabrics,Dyed","Sqm",76.88,67.81,0.09
+"2017-01-01","Maldives","MDV","462","Asia","142","Southern Asia","34","52081190","Others","Sqm",0.25,0.25,0
+"2016-04-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","23099010","Compounded Animal Feed","Kgs",11.22,37.5,0.06
+"2020-03-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","85052000","Electro-Mgntc Couplings,Clutches And Brakes","Kgs",0,0.3,0
+"2025-04-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","90302000","Cthod-Ray Osclscps And Cthod-Ray Osclogrphs","Nos",1,0.42,0.05
+"2018-04-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","21069030","Betel Nut Product Known As Supari","Kgs",0.04,0.07,0
+"2019-08-01","Bahrain","BHR","48","Asia","142","Western Asia","145","30049099","Other Medcne Put Up For Retail Sale N.E.S","Kgs",0.09,42.6,0.06
+"2019-11-01","Myanmar","MMR","104","Asia","142","South-eastern Asia","35","85287219","Other Lcd Tv Set","Nos",0,2.5,0
+"2020-07-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","85437099","Others","Nos",0.37,52.53,0.07
+"2025-02-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","34011941","Household Soaps","Kgs",6230,0.03,0
+"2016-02-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","52052210","Grey","Kgs",13.8,62.22,0.09
+"2021-09-01","Japan","JPN","392","Asia","142","Eastern Asia","30","71023910","Diamond(Othr Thn Indstrl Diamond)Cut Or Otherwise Worked But Not Mounted Or Set","Ctm",87.36,16710.87,22.72
+"2021-06-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","73182990","Other Non-Threaded Articles N.E.S.","Kgs","",0.01,""
+"2015-02-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","96099030","Pastels,Drawing Charcoals And Writing Or Drawing Chalks And Tailors Chalks","Kgs",15.44,5.66,0.01
+"2021-06-01","Islamic Republic of Iran","IRN","364","Asia","142","Southern Asia","34","99930090","Special Transactions N.E.S.","","",0.06,""
+"2024-08-01","Iraq","IRQ","368","Asia","142","Western Asia","145","28092010","Ph0Sph0Ric Acid","Kgs",40,0,0
+"2021-10-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","71123000","Ash Cntng Prcs Mtl/Prcs Mtl Cmpnds","Kgs",0.55,11.61,0.02
+"2025-04-01","Kuwait","KWT","414","Asia","142","Western Asia","145","84799090","Prts Of Othr Mchnry And Mchncl Applncs,Hvng Indvdl Functns","Kgs",125,0.1,0.01
+"2019-01-01","Uzbekistan","UZB","860","Asia","142","Central Asia","143","76169990","Others Articles Of Aluminium N.E.S.","Kgs",1.46,9.97,0.01
+"2018-08-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","61071210","Underpants And Briefs Of Syn Fibres","Nos",2.67,7.52,0.01
+"2021-04-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","62044120","Blazers Of Wool And Fine Animal Hair","Nos",0,0.01,""
+"2019-11-01","Uzbekistan","UZB","860","Asia","142","Central Asia","143","87089900","Otr Prtsandaccssrs Of Vhcls Of Hdg 8701-8705","Kgs",92.58,291.21,0.41
+"2015-03-01","Turkiye","TUR","792","Asia","142","Western Asia","145","85439000","Parts Of Articles Of Heading 8543","Kgs",0,0.14,0
+"2020-02-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","57050042","Mats And Mattings Including Bath Mats, Where Cotton Predominates By Weight, Of Handloom, Cotton Rugs Of Handloom","Sqm",3.03,19.98,0.03
+"2024-12-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","85094010","Electric Coffee Mills And Food Grinders","Nos",1,0,0
+"2015-12-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","31059090","Other Fertilisers N.E.S.","Kgs",250,455.95,0.68
+"2020-11-01","Islamic Republic of Iran","IRN","364","Asia","142","Southern Asia","34","28211010","Iron Oxides","Kgs",1.6,44.65,0.06
+"2015-10-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","29041090","Othr Drvtv Cntng Only Sulpho Group, Their Salts And Ethyl Esters","Kgs",67.47,210.21,0.32
+"2017-09-01","Oman","OMN","512","Asia","142","Western Asia","145","83026000","Automatic Door Closers","Kgs",0.2,3.53,0.01
+"2020-02-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","85442010","Co-Axial Cable","Mtr",0.73,1.71,0
+"2016-12-01","Islamic Republic of Iran","IRN","364","Asia","142","Southern Asia","34","82072000","Dies For Drawng Or Extrudng Metal","Kgs",0.17,7.88,0.01
+"2018-04-01","Japan","JPN","392","Asia","142","Eastern Asia","30","42029100","Othr Articls With Outer Surfce Of Lthr Of Composition Of Leather/Of Patent Leather","Nos",6.71,39.46,0.06
+"2024-12-01","Qatar","QAT","634","Asia","142","Western Asia","145","9041200","Crushed Or Ground Pepper","Kgs",7440,0.32,0.04
+"2025-06-01","Cambodia","KHM","116","Asia","142","South-eastern Asia","35","73181900","Other Threaded Articles","Kgs",90,0.01,0
+"2020-03-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","48026120","Poster Paper","Kgs",63.04,39.59,0.05
+"2016-06-01","China","CHN","156","Asia","142","Eastern Asia","30","33019090","Othr Conc Of Esnl Oils In Fats/Fixd/Wax Like Trpnc Byprdcts Of Deterpenation Of Esnl Oils Aqus Distlts/Soltn Esnl Ol","Kgs",0,0.24,0
+"2020-06-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","29142990","Other Cyclanic Etc Ketones Without Other Oxygn Fn.","Kgs",0.92,43.13,0.06
+"2019-10-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","84433250","Ink Jet Printer","Nos",1.03,86.25,0.12
+"2020-06-01","Israel","ISR","376","Asia","142","Western Asia","145","33012942","Lemon Grass Oil","Kgs",0.01,0.05,""
+"2024-08-01","Kyrgyzstan","KGZ","417","Asia","142","Central Asia","143","29397900","Other","Kgs",800,0.71,0.09
+"2021-08-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","84145990","Others","Nos",0.55,22.39,0.03
+"2017-12-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","72210011","Bright Bars-Chromium Type","Kgs",20,17.17,0.03
+"2020-10-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","71131130","Othr Artcls Of Silver Jwellery","Kgs","",0.58,0
+"2017-11-01","Cambodia","KHM","116","Asia","142","South-eastern Asia","35","54077200","Woven Fabrics,Cntng 85% Or More By Wt Of Othr Synthetic Filaments, Dyed","Sqm",206.22,104.17,0.16
+"2020-11-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","85469090","Othr Elctrl Insltrs Of Othr Matrls","Kgs",0.27,30.13,0.04
+"2018-12-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","90211000","Orthopeaedic Or Fracture Appliances","Nos",12.04,44.36,0.06
+"2025-04-01","Nepal","NPL","524","Asia","142","Southern Asia","34","68022900","Otr Smply Cut/Swn Stne Wth A Flt Evn Srfce","Kgs",840,0,0
+"2015-04-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","29362310","Vitamin B2 (Riboflavin, Lactoplavin) And Its Salts","Kgs",0.45,22.13,0.04
+"2015-01-01","Islamic Republic of Iran","IRN","364","Asia","142","Southern Asia","34","9103090","Other Turmeric","Kgs",36,23.55,0.04
+"2025-03-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","85123010","Horns","Nos",7302,0.2,0.02
+"2017-10-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","90173029","Othr Gauges","Nos",0.07,0.67,0
+"2020-08-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","54078440","Polyester Suitings","Sqm",1,2.14,0
+"2021-11-01","Nepal","NPL","524","Asia","142","Southern Asia","34","40129020","Solid Rubber Tyres For Other Vehivles","Kgs",0.25,0.16,0
+"2016-01-01","Pakistan","PAK","586","Asia","142","Southern Asia","34","90319000","Parts And Accessories Of Instrmnts Of 9031","Kgs",0.01,1.52,0
+"2015-04-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","32041159","Other Disperse Blue","Kgs",1.18,5.45,0.01
+"2021-04-01","Turkiye","TUR","792","Asia","142","Western Asia","145","29054300","Mannitol","Kgs",0,0.02,""
+"2024-10-01","China","CHN","156","Asia","142","Eastern Asia","30","12099190","Vegetable Seeds For Planting N.E.S.","Kgs",217,0.13,0.01
+"2024-09-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","39233090","Crbys Bttls Flskand Smlr Artcl Of Plstcs Nes","Kgs",22911,1.33,0.16
+"2018-10-01","Islamic Republic of Iran","IRN","364","Asia","142","Southern Asia","34","22011010","Mineral Waters","Ltr",0.01,0.02,""
+"2018-05-01","Israel","ISR","376","Asia","142","Western Asia","145","61034990","Trousers,Bib,Shorts Etc Of Other Fibres","Nos",0.01,0.09,0
+"2020-05-01","Nepal","NPL","524","Asia","142","Southern Asia","34","69029090","Others","Ton",0,0.38,0
+"2025-10-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","70080020","Multiple Walled Glazed Glass","Kgs",4289,0.07,0.01
+"2020-10-01","Turkiye","TUR","792","Asia","142","Western Asia","145","90248010","For Testing Textiles, Paper And Paperboard","Nos",0,1.79,0
+"2024-06-01","Maldives","MDV","462","Asia","142","Southern Asia","34","84716060","Mouse","Nos",20,0,0
+"2018-10-01","Afghanistan","AFG","4","Asia","142","Southern Asia","34","64041990","Others","Prs",1.03,1.2,0
+"2025-01-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","28362090","Other Disodium Carbonate","Kgs",21070,0.09,0.01
+"2021-10-01","Nepal","NPL","524","Asia","142","Southern Asia","34","29222933","Para Acetyl Aminophenol(Paracetamol)","Kgs",13.2,88.58,0.12
+"2015-05-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","72261100","Flt-Rld Prdcts Of Silicon Electrical Stl Grain-Oriented","Kgs",102,139.99,0.22
+"2025-08-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","29053100","Ethylene Glycol (Ethanediol)","Kgs",100,0,0
+"2021-07-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","84713090","Othr Dgtl Automatc Data-Procesng Machine Weghng <=10Kg Wth A Keyboard And Display Consistng Of A Central Procesng Ma","Nos",0,0.23,0
+"2025-05-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","61112000","Babies Garments Etc Of Cotton","Kgs",495,0.04,0
+"2016-04-01","China","CHN","156","Asia","142","Eastern Asia","30","84484990","Othr Prts And Accssrs Of Other Weaving Mchns","Kgs",2.56,33.33,0.05
+"2019-08-01","Nepal","NPL","524","Asia","142","Southern Asia","34","42032110","Gloves For Sports","Kgs",3.71,5.86,0.01
+"2018-05-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","84439960","Parts And Accessories Of Goods Of Sub- Heading 8443 39","Nos",0.01,5.88,0.01
+"2025-07-01","Japan","JPN","392","Asia","142","Eastern Asia","30","55151930","Fbrc Of Polstr Mxd Wth Othr Fibrs, Dyed","Sqm",73,0,0
+"2021-11-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","84799040","Parts 0F Plants And Machinery For Chemicals,Pharmaceuticals Etc","Kgs",0.08,3.08,0
+"2016-12-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","9103010","Fresh","Kgs",83,71.6,0.11
+"2017-09-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","30045033","Preparation Of Vitamin B9","Kgs",0.25,4.29,0.01
+"2021-01-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","55111000","Yrn Of Synthtc Staple Fibres Cntng 85% Or More By Weight Of Such Fibres","Kgs",0.27,1.73,0
+"2024-10-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","83099010","Pilfer Proof Caps For Packaging, All Sortswith/Without Washers Or Othr Fittings Of Cork, Ruber, Polythylene Or Any Othr","Kgs",13403,0.78,0.09
+"2015-08-01","Republic of Korea","KOR","410","Asia","142","Eastern Asia","30","28276090","Other Idodies And Oxyiodides","Kgs",0,0.18,0
+"2024-07-01","Kuwait","KWT","414","Asia","142","Western Asia","145","8045023","Chausa","Kgs",110,0,0
+"2018-02-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","58109210","Embroidery Badges, Mdtifs And The Like","Kgs",0.01,1.4,0
+"2021-02-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","2062900","Othr Edible Offal Of Bovine Animals,Frozen","Kgs",470.67,491.81,0.68
+"2017-06-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","90183210","Suture Needles","Kgs",0.04,10.24,0.02
+"2017-07-01","Republic of Korea","KOR","410","Asia","142","Eastern Asia","30","84841010","Asbsts Mtlc Pckngs And Gskts(Excl Gskts Of Asbsts Board Reinfrcd Wth Mtl Gauze/Wire)","Kgs",0,0.03,""
+"2021-07-01","Jordan","JOR","400","Asia","142","Western Asia","145","71039130","Emeralds","Ctm",0.19,9.92,0.01
+"2018-12-01","Oman","OMN","512","Asia","142","Western Asia","145","73079190","Non-Galvanised","Kgs",33.97,91.42,0.13
+"2024-07-01","Bahrain","BHR","48","Asia","142","Western Asia","145","55151190","Fbrc Of Polstr,Mxd Wth Viscos Ryon,Othrs","Sqm",6619,0.1,0.01
+"2020-05-01","Nepal","NPL","524","Asia","142","Southern Asia","34","30043921","Gonadotrophins","Kgs",0.04,10.99,0.01
+"2019-04-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","84223000","Mchnry Fr Fillng,Closng,Sealng,Capsulng Or Labelling Bottles,Cans,Boxes,Bags/Othr Containers;Mchnry For Aerating Bever","Kgs",0.4,0.91,0
+"2017-05-01","Qatar","QAT","634","Asia","142","Western Asia","145","48191090","Cartnsandcases Of Corrugated Paprandpaprbrd","Kgs",0.23,0.22,0
+"2021-08-01","Turkiye","TUR","792","Asia","142","Western Asia","145","35040010","Peptone","Kgs",0,0.04,""
+"2018-09-01","China","CHN","156","Asia","142","Eastern Asia","30","29029050","Is0Butyl Benzene","Kgs",460,669.88,0.93
+"2021-06-01","Republic of Korea","KOR","410","Asia","142","Eastern Asia","30","29081900","Other Derivtvs Containing Only Halogen Substituents And Their Salts","Kgs",32.2,85.38,0.12
+"2017-03-01","Kuwait","KWT","414","Asia","142","Western Asia","145","9109914","Ajwan Seed (Bishop Seed)","Kgs",0.25,0.45,0
+"2025-04-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","56050010","Real Zari Thread(Gold And Silver Thread Combined With Textile Thread)","Kgs",9844,0.2,0.02
+"2017-02-01","Nepal","NPL","524","Asia","142","Southern Asia","34","23040030","Meal Of Soyabean,Solvent Extracted (Defatted) Variety","Kgs",13413.26,3393.87,5.06
+"2017-03-01","Cambodia","KHM","116","Asia","142","South-eastern Asia","35","33049930","Moisturising Lotion","Kgs",1.5,4.62,0.01
+"2025-04-01","Türkiye","TUR","792","Asia","142","Western Asia","145","84431300","Other Offset Printing Machinery","Nos",1,0.5,0.06
+"2021-12-01","Nepal","NPL","524","Asia","142","Southern Asia","34","84483210","Prts And Accssrs For Cotn Prcsng Mchns","Kgs","",0.51,0
+"2015-12-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","17023010","Glucose Liquid","Kgs",640,176.26,0.26
+"2015-08-01","Oman","OMN","512","Asia","142","Western Asia","145","84773000","Blow Moulding Machines","Nos",0,70.14,0.11
+"2017-11-01","Iraq","IRQ","368","Asia","142","Western Asia","145","85392940","Other Automobile Lamps","Nos",0.16,0.1,0
+"2021-06-01","Oman","OMN","512","Asia","142","Western Asia","145","38019000","Other (Graphite Based Preparations)","Kgs",54.43,51.09,0.07
+"2025-06-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","23099020","Concentrated For Compound Animal Feed","Kgs",115700,2.13,0.25
+"2024-07-01","Pakistan","PAK","586","Asia","142","Southern Asia","34","30024123","Measles, Mumps And Rubella (Mmr)","Kgs",150,0.36,0.04
+"2018-01-01","Taiwan, Province of China","TWN","158","Asia","142","Eastern Asia","30","32151110","Black Lithographic Ink And Jelly","Kgs",0.08,0.41,0
+"2025-06-01","Nepal","NPL","524","Asia","142","Southern Asia","34","23050020","Oil-Cake And Oil-Cake Meal Of Groundnut Slvnt Extracted Varity(Defatted)","Kgs",38720,0.1,0.01
+"2019-08-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","74191029","*Other Parts","Kgs",0.1,1.11,0
+"2019-05-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","72192320","Hot-Rolled,Nickel Chromium Austenitic Type","Kgs",0.15,0.35,0
+"2020-03-01","Maldives","MDV","462","Asia","142","Southern Asia","34","64059000","All Other Footwear","Prs",0.19,0.17,0
+"2025-09-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","58012290","Others","Sqm",87,0,0
+"2021-11-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","84425090","Others","Kgs",0.02,44.78,0.06
+"2020-12-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","58079090","Othr Labels Badges And Smlr Artxls","Kgs",0.15,4.02,0.01
+"2018-10-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","17011490","Other Cane Sugar Excl. Those Specified In Note 2","Kgs",37,13.82,0.02
+"2024-07-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","85043200","Othr Trnsfrmrs Hvng A Pwr Hndlng Capacity Excdng 1 Kva But Nt Excdng 16Kva","Nos",28000,0.01,0
+"2021-08-01","Israel","ISR","376","Asia","142","Western Asia","145","48101990","Other","Kgs",54.69,32.19,0.04
+"2018-06-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","20081920","Other Roasted Nuts And Seeds","Kgs",339,238.43,0.35
+"2020-09-01","Brunei Darussalam","BRN","96","Asia","142","South-eastern Asia","35","82034090","Others","Kgs",0.01,0.06,""
+"2021-11-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","28332290","Other Aluminium Sulphate","Kgs",0.02,0.13,0
+"2024-06-01","Azerbaijan","AZE","31","Asia","142","Western Asia","145","90275090","Others","Nos",1,0.02,0
+"2019-01-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","62129090","Othr Thn Suspndr Blts,Brcs,Suspndr Gouters","Nos",0.46,0.71,0
+"2021-04-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","29304000","Methionine","Kgs",67,117.08,0.16
+"2018-07-01","China","CHN","156","Asia","142","Eastern Asia","30","84219900","Othr Parts Of Fltrng/Purfyng Mchnry","Kgs",182.15,360.33,0.52
+"2025-10-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","73110090","Other Pressure Containers For Transport Or Storage Of Compressed Gases","Kgs",6107,0.6,0.07
+"2017-09-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","39191000","Self-Adhsv Plts Etc In Rls,Wdth < = 20Cm","Kgs",89.81,113.14,0.18
+"2020-10-01","Nepal","NPL","524","Asia","142","Southern Asia","34","63041940","Bed Sheets And Bed Covers Of Cotton, Handloom","Nos",5.91,11.18,0.02
+"2024-08-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","39081011","Flake (Chip)","Kgs",17725,0.41,0.05
+"2024-12-01","Maldives","MDV","462","Asia","142","Southern Asia","34","63079011","Dress Materials Of Cotton Hand Printed","Kgs",5,0,0
+"2020-01-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","20082000","Pine Apples Prepared Or Preserved","Kgs",0.66,0.58,0
+"2025-08-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","68052040","Other Abrasive Paper","Kgs",1242,0.02,0
+"2024-08-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","84472090","Knitting Machines,N.E.S.","Nos",24,0.01,0
+"2025-04-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","57023210","Carpets,Carpeting And Rugs","Sqm",2153,0.17,0.02
+"2021-07-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","8013100","Cashen Nuts Fresh/Dried In Shell","Kgs",0.07,0.36,0
+"2017-10-01","Nepal","NPL","524","Asia","142","Southern Asia","34","15121910","Sunflower Oil Edible Grade","Kgs",14,14.57,0.02
+"2016-11-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","9101110","Fresh","Kgs",1,1.07,0
+"2015-09-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","33049950","Turmeric Preparations","Kgs",1.45,1.88,0
+"2018-12-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","73062100","Welded, Of Stainless Steel","Kgs",6.41,30.73,0.04
+"2019-11-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","57050023","Durries Of Wool","Sqm",0.01,0.15,0
+"2025-07-01","Oman","OMN","512","Asia","142","Western Asia","145","72199012","Sheets And Plts,Medium 3 Mm To 4.75 Mm,Wrkd","Kgs",21450,0.43,0.05
+"2018-02-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","72222011","Bright Bars-Chromium Type","Kgs",8.66,13.16,0.02
+"2019-03-01","Nepal","NPL","524","Asia","142","Southern Asia","34","84198190","Othr Machinry,Plant And Equipment For Makinghot Drinks Or For Cooking/Heating Food","Nos",0,0.04,""
+"2017-11-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","62031200","Suits Of Synthetic Fibres","Nos",0.51,4.32,0.01
+"2021-02-01","China","CHN","156","Asia","142","Eastern Asia","30","29181320","Metroprolol Tartrate","Kgs",12.23,352.91,0.49
+"2020-12-01","Turkiye","TUR","792","Asia","142","Western Asia","145","28432900","Other Compound Of Silver","Kgs",0.37,14.94,0.02
+"2019-06-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","61046200","Trsrs,Bibs,Brc Ovrlls,Brchs,Shrts Of Cotn","Nos",0.7,1.35,0
+"2018-04-01","Pakistan","PAK","586","Asia","142","Southern Asia","34","32041751","Pigment Blue 15 (Pathalocyanine Blue)","Kgs",106.3,403.14,0.61
+"2015-08-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","19041090","Other Papd Foods Obtnd By Swlno/Rstng Of Crls","Kgs",237.26,148.83,0.23
+"2019-04-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","73079390","Non Galvanised","Kgs",3.43,6.39,0.01
+"2017-05-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","40139020","Inner Tubes For Motor Cycles","Nos",27.4,21.89,0.03
+"2017-05-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","90049090","0Thers","Kgs",1.69,31.21,0.05
+"2025-09-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","76042910","Hrd Drwn Bare Almnm Condctrs Stl Re-Infrcd","Kgs",11,0.16,0.02
+"2016-03-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","52115120","Furnishing Fabrics ( Excl Pile/ Chenille Fabrics )","Sqm",5.14,8.26,0.01
+"2024-04-01","Maldives","MDV","462","Asia","142","Southern Asia","34","28332500","Copper Sulphate","Kgs",1,0,0
+"2024-04-01","Uzbekistan","UZB","860","Asia","142","Central Asia","143","29333990","Other Cmpnds Cntng An Unfused Pyrdn Ring (W/N Hydrgntd ) In Structure","Kgs",525,0.09,0.01
+"2015-08-01","Republic of Korea","KOR","410","Asia","142","Eastern Asia","30","32041139","Other Disperse Red","Kgs",11.78,54.31,0.08
+"2017-05-01","Maldives","MDV","462","Asia","142","Southern Asia","34","82013000","Mattocks Picks Hoes And Rakes","Kgs",0.02,0.06,""
+"2021-05-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","90172010","Drwng And Mrkng Out Instrmnts;Pantograph","Nos",11.1,1.87,0
+"2018-04-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","64039990","Lthr Sandals With Othr Sole","Prs",15.31,134.06,0.2
+"2019-12-01","Oman","OMN","512","Asia","142","Western Asia","145","76169990","Others Articles Of Aluminium N.E.S.","Kgs",6.48,29.34,0.04
+"2016-05-01","Israel","ISR","376","Asia","142","Western Asia","145","39232910","Sacks And Bags (Incl Cones)Of Othr Plastics Of Poly (Vinyl Chloride)","Kgs",0.03,0.04,""
+"2018-11-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","55032000","Staple Fibres Of Polyester Nt Crd/Cmbd","Kgs",1036.91,1019.82,1.42
+"2025-06-01","Lebanon","LBN","422","Asia","142","Western Asia","145","85016410","Ac Generators(Alterntrs) Of An Output >750 Kva But<=2000 Kva","Nos",3,0.29,0.03
+"2025-01-01","Mongolia","MNG","496","Asia","142","Eastern Asia","30","30043913","Dexamethasone","Kgs",433,0.06,0.01
+"2025-07-01","Cyprus","CYP","196","Asia","142","Western Asia","145","62044290","Othr Dresses Of Cotton","Nos",30,0,0
+"2021-03-01","Nepal","NPL","524","Asia","142","Southern Asia","34","44089010","Sheets For Plywood","Kgs",5.5,1.98,0
+"2021-12-01","Kuwait","KWT","414","Asia","142","Western Asia","145","63021090","All Other Bed Linens Knitted Or Crocheted","Kgs",0.26,1.08,0
+"2025-07-01","Taiwan, Province of China","TWN","158","Asia","142","Eastern Asia","30","24013000","Tobacco Refuse","Kgs",29400,0.36,0.04
+"2019-05-01","Turkiye","TUR","792","Asia","142","Western Asia","145","90258010","Hydrometers And Similar Floating Instruments","Nos",0.33,9.03,0.01
+"2018-12-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","41131000","Leather Further Of Goats/Kids","Kgs",56.9,1283.27,1.81
+"2015-09-01","Nepal","NPL","524","Asia","142","Southern Asia","34","84801000","Moulding Boxes Fr Metal Foundry","Kgs",0.01,0.04,""
+"2018-05-01","Myanmar","MMR","104","Asia","142","South-eastern Asia","35","84099930","Fuel Injectn Eqpmnt Excl Injctn Pumps","Kgs",1,27.46,0.04
+"2025-09-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","96050010","Travel Sets For Personal Toilet","Nos",18000,0.01,0
+"2016-07-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","84137099","Others","Nos",0,0.85,0
+"2018-06-01","Nepal","NPL","524","Asia","142","Southern Asia","34","96099090","Othr Pncls;Pstls,Charcoalsand Chalks","Kgs",21.22,40.88,0.06
+"2015-12-01","Taiwan, Province of China","TWN","158","Asia","142","Eastern Asia","30","85411000","Diodes,Other Than Photosensitive Or Light Emitting Diodes","Nos","",0.01,""
+"2018-04-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","15079010","Soya Bean Oil Of Edible Grade","Kgs",30.75,29.57,0.05
+"2015-09-01","Nepal","NPL","524","Asia","142","Southern Asia","34","15119090","Other Refined Palm Oil","Kgs",12.06,9.16,0.01
+"2017-10-01","Turkiye","TUR","792","Asia","142","Western Asia","145","40094200","Tubes,Pipes,Andhoses Of Vulcnsd Rubr Reinforced Otherwse Combined With Other Matarials With Fittings","Kgs",0.04,0.22,0
+"2015-12-01","Turkiye","TUR","792","Asia","142","Western Asia","145","73194010","Safety Pins","Kgs",0.01,0.02,""
+"2020-06-01","Lebanon","LBN","422","Asia","142","Western Asia","145","41071900","Other Whole Hids/Skins","Kgs",4,40.22,0.05
+"2025-07-01","Republic of Korea","KOR","410","Asia","142","Eastern Asia","30","85369090","Other","Nos",951032,2.13,0.25
+"2017-02-01","Singapore","SGP","702","Asia","142","South-eastern Asia","35","17021190","Lacts And Lacts Syrp Contng 99%Or Mre Lacts Othr Than Solid Form","Kgs",0,0.01,""
+"2021-02-01","Oman","OMN","512","Asia","142","Western Asia","145","21069040","Sugr-Syrp Contng Flavrng/Colrng Mtrl Nes","Kgs",0.61,0.59,0
+"2018-09-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","34031100","Prpns For The Trtmnt Of Txtl Matrls Leather Furskins/Other Materials Contng Petrolium Oils/Oil Obtnd From Bitmns","Kgs",16,30.6,0.04
+"2016-06-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","63022190","Other Bed Linen, Printed: Of Cotton, Other Than Handloom","Kgs",0.59,2.75,0
+"2020-03-01","Qatar","QAT","634","Asia","142","Western Asia","145","8109030","Sapota (Chico)Fresh","Kgs",5.4,4.25,0.01
+"2020-08-01","Nepal","NPL","524","Asia","142","Southern Asia","34","32159020","Ball Pen Ink","Kgs",0.18,0.67,0
+"2017-02-01","Nepal","NPL","524","Asia","142","Southern Asia","34","50050011","Yrn Spn Frm Slk Wst Othr Thn Noil Slk Contng >=85% By Wt Of Slk Wst.","Kgs",2.25,22.5,0.03
+"2015-06-01","Turkiye","TUR","792","Asia","142","Western Asia","145","44219090","*All Other Articles Of Wood","Kgs",5.11,13.51,0.02
+"2025-03-01","Bhutan","BTN","64","Asia","142","Southern Asia","34","91021100","Wrst-Wtchs,Electrly Operated,W/N Incrprtng Stop-Wtch Fclty With Mchncl Display Only","Nos",722,0.08,0.01
+"2017-03-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","84148090","Others","Nos",0.01,73.73,0.11
+"2020-09-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","68029900","Other Stone","Kgs",101.96,28.09,0.04
+"2024-08-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","32041211","Acid Yellows(Azo)","Kgs",5201,0.08,0.01
+"2016-11-01","Kuwait","KWT","414","Asia","142","Western Asia","145","8043000","Pineapples Fresh Or Dried","Kgs",1.57,0.83,0
+"2025-07-01","Jordan","JOR","400","Asia","142","Western Asia","145","32049000","Othr Synthetic Organic Colorng Matter","Kgs",5,0,0
+"2018-11-01","China","CHN","156","Asia","142","Eastern Asia","30","68141010","Cut Mica Condenser Film Of Plates","Kgs",0.24,2.18,0
+"2021-04-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","84099949","Other Parts Of Diesel/Semi Diesel Engines","Kgs",0.89,1.71,0
+"2019-03-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","39269091","Othr Article Of Plastic Of Polyurethn Foam","Kgs",0.02,0.03,""
+"2018-10-01","Japan","JPN","392","Asia","142","Eastern Asia","30","54083290","Othr Artficl Fbrcs","Sqm",0.1,0.27,0
+"2017-11-01","Nepal","NPL","524","Asia","142","Southern Asia","34","54078119","Unblechd Othr Wovn Fbrcs","Sqm",2.04,2.39,0
+"2021-03-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","85361020","Swtch Fuse Unitsof Swtch Rating Above 15 Amps High Ruptrng Capacity/Rewireable","Nos",0.02,0.8,0
+"2016-09-01","Bahrain","BHR","48","Asia","142","Western Asia","145","84811000","Pressure-Reducing Valves","Kgs",0.06,0.29,0
+"2019-05-01","Pakistan","PAK","586","Asia","142","Southern Asia","34","62143000","Shwls,Scrvs,Mufflers Etc Of Synthtc Fbrs","Nos",0.1,0.1,0
+"2025-04-01","Oman","OMN","512","Asia","142","Western Asia","145","85364900","Other Relays","Nos",467,0.19,0.02
+"2025-08-01","China","CHN","156","Asia","142","Eastern Asia","30","32159020","Ball Pen Ink","Kgs",11405,0.7,0.08
+"2021-09-01","Philippines","PHL","608","Asia","142","South-eastern Asia","35","71069290","All Other Semi Manufactured Forms Of Slvr","Kgs",0.02,11.35,0.02
+"2018-12-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","71039990","Other Stone Cut(Topaz Aquamarine Etc)","Ctm",11.19,2.69,0
+"2015-03-01","Nepal","NPL","524","Asia","142","Southern Asia","34","39095000","Polyurethanes","Kgs",5.88,9.11,0.01
+"2017-07-01","Myanmar","MMR","104","Asia","142","South-eastern Asia","35","52051410","Grey","Kgs",373.16,809.45,1.26
+"2025-04-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","19059010","Pastries And Cakes","Kgs",29914,0.44,0.05
+"2024-11-01","Turkiye","TUR","792","Asia","142","Western Asia","145","55041019","Other Artificial Staple Fibres Nt Crd/Combd Of Flame Retaradant Viscose Rayon Obtd Frm Wood Ot Bamboo","Kgs",126041,2.05,0.24
+"2020-06-01","Bahrain","BHR","48","Asia","142","Western Asia","145","3061720","Vannamei Shrimp (Litopenaeus Vannamei)","Kgs",18,74,0.1
+"2021-06-01","Philippines","PHL","608","Asia","142","South-eastern Asia","35","30041030","Amoxycyllin In Capsules, Injections Etc.","Kgs",6.05,92.61,0.13
+"2020-06-01","Hong Kong","HKG","344","Asia","142","Eastern Asia","30","90251990","Others","Nos",37.05,57.18,0.08
+"2016-12-01","China","CHN","156","Asia","142","Eastern Asia","30","84143000","Compressors Usd In Reprigerating Equipment","Nos",0,0.07,""
+"2017-09-01","Japan","JPN","392","Asia","142","Eastern Asia","30","40122010","Used Pnmtc Tyres For Buses/Lorries/Earth Moving Equipment Incl Light Commrcl Vehicl","Nos",0.01,0.73,0
+"2020-06-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","85023100","Othr Generating Sets; Wind Powered","Nos",0,2.5,0
+"2024-08-01","Thailand","THA","764","Asia","142","South-eastern Asia","35","29225090","Other Frusemide Aminodial Domperidone","Kgs",500,0.44,0.05
+"2015-09-01","Republic of Korea","KOR","410","Asia","142","Eastern Asia","30","38089390","Other Herbicides-Anti-Sprouting Products","Kgs",50,1021.22,1.54
+"2020-03-01","Yemen","YEM","887","Asia","142","Western Asia","145","71171990","Other","Kgs",0.03,14.39,0.02
+"2018-11-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","38089191","Repelant For Insects Such As Flies,Mosquto","Kgs",22.01,98.1,0.14
+"2024-10-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","73141490","Others","Kgs",8,0.04,0
+"2015-07-01","Turkiye","TUR","792","Asia","142","Western Asia","145","76151030","Other Table, Kitchen Or Other Household Articles","Kgs",0.8,0.98,0
+"2021-02-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","69029020","Graphite Carbon Bricks And Shapes","Ton",0.02,12.98,0.02
+"2015-04-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","32041941","Azoic Diazo Compnt 12 (Fst Scrlt G Bse","Kgs",0.3,0.83,0
+"2016-03-01","China","CHN","156","Asia","142","Eastern Asia","30","59011020","Prepared Painting Canvas","Sqm",38.68,91.29,0.14
+"2021-07-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","72210090","Brght Bars N.E.S.","Kgs",106.2,184.16,0.25
+"2025-04-01","Nepal","NPL","524","Asia","142","Southern Asia","34","84836090","Others","Nos",3202,0.31,0.04
+"2024-05-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","28321090","Other Sodium Sulphite","Kgs",1,0,0
+"2016-06-01","Sri Lanka","LKA","144","Asia","142","Southern Asia","34","85258090","Other","Nos",0.31,2.4,0
+"2024-08-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","84211999","Other Centrifuges","Nos",15,0.15,0.02
+"2025-07-01","Taiwan, Province of China","TWN","158","Asia","142","Eastern Asia","30","72021100","Fero-Manganese,Carbon Contng>2% By Weight","Kgs",2369000,16.17,1.88
+"2017-04-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","84099949","Other Parts Of Diesel/Semi Diesel Engines","Kgs",5.27,13.23,0.02
+"2020-04-01","Bangladesh","BGD","50","Asia","142","Southern Asia","34","84219900","Othr Parts Of Fltrng/Purfyng Mchnry","Kgs",74.44,122.07,0.16
+"2019-10-01","Georgia","GEO","268","Asia","142","Western Asia","145","27101990","Other Petroleum Oils And Oils Obtaine Frombituminous Minerals Nes","Kgs",0.11,69.45,0.1
+"2021-07-01","Nepal","NPL","524","Asia","142","Southern Asia","34","69032090","Others","Ton",0.02,11.72,0.02
+"2025-07-01","Kuwait","KWT","414","Asia","142","Western Asia","145","63079020","Made Up Artcls Of Cotton","Kgs",137,0.01,0
+"2017-07-01","United Arab Emirates","ARE","784","Asia","142","Western Asia","145","83014010","Combination Locks","Kgs",14.46,23.04,0.04
+"2020-04-01","Cyprus","CYP","196","Asia","142","Western Asia","145","12074090","Other Sesamum Seeds W/N Broken","Kgs",38,51.91,0.07
+"2019-03-01","Viet Nam","VNM","704","Asia","142","South-eastern Asia","35","32100090","Othr Paint Varnsh Incl Enml Laqursanddstmpr Prprd Watr Pgmnt For Finshng Lethr N.E.S.","Kgs",0.35,0.65,0
+"2020-02-01","Taiwan, Province of China","TWN","158","Asia","142","Eastern Asia","30","39219099","Othr Plts,Shts,Film Foil,Strip Etc Nes Other","Kgs",2.07,3.86,0.01
+"2025-01-01","Nepal","NPL","524","Asia","142","Southern Asia","34","84762120","Automatc Bevereg-Vendng Machns Incorporating Heating Devices","Nos",29,0.04,0.01
+"2017-05-01","Japan","JPN","392","Asia","142","Eastern Asia","30","84482000","Prts And Accssrs Of Mchns Of Hdg No.8444/Of Their Auxlry Mchnry","Kgs",11.33,43.27,0.07
+"2015-03-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","54075300","Wovn Fabrics Of Yarns Of Different Colourscntng By Wt>=85% Textured Polestr Flmnts","Sqm",1.79,4.25,0.01
+"2016-03-01","Kuwait","KWT","414","Asia","142","Western Asia","145","39209939","Plate Sheet Film Foil And Strip Of Copolymerof Vinyl Chlorideand Acetate Other","Kgs",0.04,0.1,0
+"2020-07-01","Indonesia","IDN","360","Asia","142","South-eastern Asia","35","53091910","Dyed Flax Wovn Fabrcs Contng Flax >= 85%","Sqm",0.14,0.77,0
+"2024-06-01","Yemen","YEM","887","Asia","142","Western Asia","145","76072090","Other Backed Allumnm Foil","Kgs",275,0.01,0
+"2015-05-01","Turkiye","TUR","792","Asia","142","Western Asia","145","54072040","Printed Wven Fbrcs From Strip/The Like","Sqm",39.05,24.64,0.04
+"2019-02-01","Bahrain","BHR","48","Asia","142","Western Asia","145","72283024","Bars And Rods Of Tool And Die Steel","Kgs",0.4,2.58,0
+"2015-07-01","Qatar","QAT","634","Asia","142","Western Asia","145","8109010","Pomegranates Fresh","Kgs",30.09,61.79,0.1
+"2024-12-01","Malaysia","MYS","458","Asia","142","South-eastern Asia","35","22029930","Beverages Containing Milk","Ltr",5658,0.12,0.01
+"2024-04-01","Saudi Arabia","SAU","682","Asia","142","Western Asia","145","73061919","Other","Kgs",6789,0.1,0.01
+"2024-10-01","China","CHN","156","Asia","142","Eastern Asia","30","73209020","Spring Pins","Kgs",264,0.04,0
+"2020-01-01","Oman","OMN","512","Asia","142","Western Asia","145","15159040","Fxd Veg Oils Of Edble Grade Viz. Mngo Krnlmahua,Rce Brn Oil","Kgs",0.49,0.69,0
+"2016-05-01","Bahrain","BHR","48","Asia","142","Western Asia","145","33030090","Other Perfume And Toilet Waters","Kgs",0.17,19.57,0.03
