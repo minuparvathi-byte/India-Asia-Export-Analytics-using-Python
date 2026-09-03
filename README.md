@@ -84,11 +84,13 @@ Map which commodity categories dominate exports to each Asian subregion, reveali
 - Extracted `MONTH` and `YEAR` from `DATE` for time-based analysis
 
 ### Stage 3: Statistical Analysis & Visualization
+
 Central Tendency & Dispersion
-•	Quantity: Mean 54,876.85 | Median 3.00 | Mode 0.00 → strongly right-skewed
-•	Value_RS: Mean 130.56 | Median 2.82 | Mode 0.00 → strongly right-skewed
-•	Quantity Std Dev: 3,926,595.81 | Variance: ~15.4 trillion
-•	Value_RS Std Dev: 3,051.99 | Variance: ~9.3 million
+
+-	Quantity: Mean 54,876.85 | Median 3.00 | Mode 0.00 → strongly right-skewed
+-	Value_RS: Mean 130.56 | Median 2.82 | Mode 0.00 → strongly right-skewed
+-	Quantity Std Dev: 3,926,595.81 | Variance: ~15.4 trillion
+-	Value_RS Std Dev: 3,051.99 | Variance: ~9.3 million
 <img width="1222" height="582" alt="Screenshot 2026-09-02 191727" src="https://github.com/user-attachments/assets/fbfb4abf-c1d9-495d-9cc4-087f02fcd3e3" />
 
 <img width="1201" height="492" alt="Screenshot 2026-09-02 191739" src="https://github.com/user-attachments/assets/c3579f09-e3a6-49a2-85fe-5def9b280309" />
