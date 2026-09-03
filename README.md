@@ -172,5 +172,5 @@ Central Tendency & Dispersion
 India’s exports to Asia are structurally concentrated in Cosmetics & Personal Care and Western Asia, creating both opportunities and risks. While the export basket is diversified across categories, revenue is skewed by a few large transactions. This concentration makes trade performance highly sensitive to mega-deals and regional demand cycles. To ensure resilience, India must strategically diversify markets, protect vulnerable corridors, and modernize logistics and monitoring systems. Doing so will strengthen India’s position in Asia and reduce exposure to external shocks. 
 ## Author
 Minu M
-
+Data Analyst
 
